@@ -1,3 +1,3 @@
-# training
+# Advanced Data Science Capstone
 
-This is a training repository in order to learn how to do one.
+Small repository for the capstone project of the course.
